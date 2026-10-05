@@ -1,0 +1,17 @@
+{
+  "name": "勤怠ノート",
+  "short_name": "勤怠ノート",
+  "start_url": "./勤怠ノート.html",
+  "display": "standalone",
+  "background_color": "#f3f6f9",
+  "theme_color": "#102b46",
+  "description": "スマートフォン用の勤怠管理デモ",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
